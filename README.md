@@ -1,5 +1,3 @@
-# donk-championships
-Donk championships
 # International Donk Federation
 
 Official repository for the rules, history, and operations of the Supreme Donk Championships.
